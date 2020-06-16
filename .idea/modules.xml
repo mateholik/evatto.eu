@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/evatto.iml" filepath="$PROJECT_DIR$/.idea/evatto.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/www/evatto static/.idea/evatto.eu.iml" filepath="$USER_HOME$/Desktop/www/evatto static/.idea/evatto.eu.iml" />
+    </modules>
+  </component>
+</project>
